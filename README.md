@@ -1,2 +1,2 @@
 # QtDebugToTextEdit
-Redirect qDebug to QTextEdit
+Redirecting qDebug() to QTextEdit using qInstallMessageHandler
